@@ -4,15 +4,15 @@
 
 <br>
 
-<a href="mailto: mbenson025@gmail.com">
+<a href="mailto: mbenson025@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="Gmail"/>
   </a>
 
 
-<a href="https://www.linkedin.com/in/mason-benson-6591b5102/">
+<a href="https://www.linkedin.com/in/mason-benson-6591b5102/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn Badge"/>
   </a>
   
-  <a href="https://mbenson-portfolio.herokuapp.com/">
+  <a href="https://mbenson-portfolio.herokuapp.com/" target="_blank">
     <img src="https://img.shields.io/badge/Profile-430098?style=for-the-badge&logo=heroku&logoColor=white&color=071A2C" alt="Profile Badge"/>
   </a>
