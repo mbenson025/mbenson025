@@ -16,8 +16,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn Badge"/>
   </a>
   
-<a href="https://mbenson-portfolio.herokuapp.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Profile-430098?style=for-the-badge&logo=heroku&logoColor=white&color=071A2C" alt="Profile Badge"/>
-  </a>
+
   
 
